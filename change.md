@@ -1,5 +1,8 @@
 # Changes to Question 1
 
+**Update:** the notebook has moved to `submission/Question1_Group109.ipynb`,
+next to the Question 2 PDFs. Its content is unchanged by the move.
+
 This note is for whoever wrote `Question1_Group109.ipynb`. It lists every edit
 made to the notebook.
 
