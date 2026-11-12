@@ -9,7 +9,7 @@ through the portal.
 | Member | BITS ID | File in `submission/` | Status |
 |:--|:--|:--|:--|
 | Group (Question 1) | | `Question1_Group109.ipynb` | Added, outputs saved in every cell that prints |
-| Stuti Srivastava | 2025AG05747 | `2025AG05747.pdf` | Pending |
+| Stuti Srivastava | 2025AG05747 | `2025AG05747.pdf` | Added |
 | Chirag Bhatnagar | 2025AG05066 | `2025AG05066.pdf` | Added |
 | Aditya Saraswat | 2025AG05058 | `2025AG05058.pdf` | Pending |
 | Vanshika Sangal | 2025AG05381 | `2025AG05381.pdf` | Pending |
