@@ -11,8 +11,8 @@ through the portal.
 | Group (Question 1) | | `Question1_Group109.ipynb` | Added, outputs saved in every cell that prints |
 | Stuti Srivastava | 2025AG05747 | `2025AG05747.pdf` | Added |
 | Chirag Bhatnagar | 2025AG05066 | `2025AG05066.pdf` | Added |
-| Aditya Saraswat | 2025AG05058 | `2025AG05058.pdf` | Pending |
-| Vanshika Sangal | 2025AG05381 | `2025AG05381.pdf` | Pending |
+| Aditya Saraswat | 2025AG05058 | `2025AG05058.pdf` | Added |
+| Vanshika Sangal | 2025AG05381 | `2025AG05381.pdf` | Added |
 | Neelam Devi | 2025AG05908 | `2025AG05908.pdf` | Added |
 
 The ZIP must hold **6 files**: 1 notebook and 5 PDFs. A member whose PDF is missing gets no Question 2
